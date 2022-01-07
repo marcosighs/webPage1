@@ -1,4 +1,4 @@
-# webPage1
+# windyHotelWebsite
 
 Este projeto ainda está sendo desenvolvido. 
 
